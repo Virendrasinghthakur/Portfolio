@@ -111,7 +111,7 @@ if selected == 'About':
         st.subheader("Education")
         st.markdown("""
 - **Jaipur Engineering College**  
-  B.E. in Computer Science (AI) | 2023–2027  
+  B.Tech in Computer Science (AI) | 2023–2027  
 
 - **RV Public School**  
   12th Grade (PCM) | 2021–2023  
