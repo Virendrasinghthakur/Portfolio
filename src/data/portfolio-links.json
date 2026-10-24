@@ -1,0 +1,54 @@
+{
+  "resume": "/Virendra_Resume.docx",
+  "email": "veersingh16400@gmail.com",
+  "github": "https://github.com/veerindrasinghthakur",
+  "linkedin": "https://www.linkedin.com/in/virendra-singh-7224522a0",
+  "leetcode": "https://leetcode.com/u/virendra_singh_08/",
+  "projects": [
+    {
+      "name": "Bytevon CRM",
+      "label": "01 / ENTERPRISE PLATFORM",
+      "status": "Production Prototype",
+      "description": "Enterprise CRM and business-management platform with role-based access, project workflows, attendance, leave, payroll, documents, and approvals.",
+      "technologies": ["TypeScript", "React", "FastAPI", "PostgreSQL"],
+      "repository": "https://github.com/veerindrasinghthakur/Bytevon_CRM",
+      "demo": ""
+    },
+    {
+      "name": "AI Video Generation Agents",
+      "label": "02 / CONTENT ENGINE",
+      "status": "Agentic Pipeline",
+      "description": "Python pipeline for short-form video production using Gemini script generation, Pollinations AI visuals, factual-data retrieval, and Shotstack rendering.",
+      "technologies": ["Python", "LangChain", "Gemini", "Shotstack"],
+      "repository": "https://github.com/veerindrasinghthakur/VideoGeneration_AI-agents",
+      "demo": ""
+    },
+    {
+      "name": "Dubify — AI Voice Dubbing",
+      "label": "03 / SPEECH-TO-SPEECH",
+      "status": "AI Voice System",
+      "description": "Real-time multilingual AI dubbing system integrating Whisper ASR with FastAPI for voice-based workflows.",
+      "technologies": ["Python", "FastAPI", "Whisper", "ASR"],
+      "repository": "https://github.com/veerindrasinghthakur/Dubify_Project",
+      "demo": ""
+    },
+    {
+      "name": "JobNutt",
+      "label": "04 / CAREER PLATFORM",
+      "status": "Project Repository",
+      "description": "Job and career-focused application project. Add its repository URL in this file when you are ready to publish it.",
+      "technologies": ["Web Application", "Career Tools"],
+      "repository": "",
+      "demo": ""
+    },
+    {
+      "name": "E-Commerce Backend",
+      "label": "05 / BACKEND SYSTEM",
+      "status": "API Platform",
+      "description": "Secure modular e-commerce backend with REST APIs, JWT authentication, and role-based access control.",
+      "technologies": ["Python", "FastAPI", "JWT", "REST APIs"],
+      "repository": "https://github.com/veerindrasinghthakur/Ecommerce_backend_project",
+      "demo": ""
+    }
+  ]
+}
